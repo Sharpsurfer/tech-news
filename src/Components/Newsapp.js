@@ -36,11 +36,7 @@ const Newsapp = () => {
         </div>
 
         <div className="sections">
-          <ul>
-            <a>Road maps</a>
-            <a>Project Hub</a>
-            <a>Tech News</a>
-          </ul>
+          <h3>Tech Zone</h3>
         </div>
 
         <div className="dropdown">
