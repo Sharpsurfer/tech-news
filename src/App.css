@@ -1,15 +1,1 @@
-nav {
-  display: flex;
-  justify-content: space-around;
-  background-color: rgb(4, 7, 67);
-  color: antiquewhite;
-}
-.dropdown,
-.sections {
-  display: flex;
-  align-items: center;
-}
-ul a,
-  div label {
-  margin: 10px;
-}
+
